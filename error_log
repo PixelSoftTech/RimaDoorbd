@@ -1,0 +1,460 @@
+[23-Mar-2022 01:21:05 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home3/softwrgn/hr.softcreation.tech/vendor/composer/platform_check.php on line 24
+[23-Mar-2022 01:21:05 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home3/softwrgn/hr.softcreation.tech/vendor/composer/platform_check.php on line 24
+[23-Mar-2022 06:21:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:21:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:21:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:21:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:21:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:21:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:25:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:25:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:26:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:26:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:26:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:26:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:26:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:26:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:26:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:26:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlCon in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:28:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home3/softwrgn/hr.softcreation.tech/v in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:28:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home3/softwrgn/hr.softcreation.tech/v in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[23-Mar-2022 06:28:43 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home3/softwrgn/hr.softcreation.tech/storage/framework/views/8d33b55fb1e9beba4337ea0f6345d14a39438007.php(40): route('home')
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home3/softwrgn...')
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home3/softwrgn...', Array)
+#5 in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[23-Mar-2022 06:28:43 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home3/softwrgn/hr.softcreation.tech/storage/framework/views/8d33b55fb1e9beba4337ea0f6345d14a39438007.php(40): route('home')
+#2 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home3/softwrgn...')
+#3 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home3/softwrgn...', Array)
+#5 in /home3/softwrgn/hr.softcreation.tech/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[23-Mar-2022 06:50:38 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:51:32 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:51:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:53:29 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:54:16 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:17 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:21 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:22 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:25 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:46 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:50 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:52 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:53 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[23-Mar-2022 06:56:55 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BlogController::index() in /home3/softwrgn/hr.softcreation.tech/app/Http/Controllers/BlogController.php on line 168
+[10-Apr-2022 08:42:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', '', '', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', '', '', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illumi in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Apr-2022 08:42:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', '', '', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', '', '', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illumi in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Apr-2022 08:42:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', '', '', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', '', '', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illumi in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Apr-2022 08:42:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', '', '', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', '', '', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illumi in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Apr-2022 08:42:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', '', '', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', '', '', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illumi in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Apr-2022 08:42:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', '', '', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', '', '', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illumi in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Apr-2022 08:42:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', '', '', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', '', '', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illumi in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Apr-2022 08:42:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', '', '', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', '', '', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illumi in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[18-Apr-2022 08:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(1 in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[18-Apr-2022 08:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(1 in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[18-Apr-2022 08:32:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(1 in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[18-Apr-2022 08:32:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(1 in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[18-Apr-2022 08:32:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(1 in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[18-Apr-2022 08:32:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_hr', 'softwrgn_hr', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(1 in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:40:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:40:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:40:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:40:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:40:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:40:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:40:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:40:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:41:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:41:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:41:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:41:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:59:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 05:59:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:07:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:12:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:12:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:12:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:12:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:13:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:13:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:13:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Apr-2022 06:13:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'softwrgn_hr.languages' doesn't exist in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closur in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[20-Apr-2022 08:20:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_nirman', 'softwrgn_nirman', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_nirman', 'softwrgn_nirman', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connect in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[20-Apr-2022 08:20:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_nirman', 'softwrgn_nirman', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_nirman', 'softwrgn_nirman', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connect in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[20-Apr-2022 08:20:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_nirman', 'softwrgn_nirman', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_nirman', 'softwrgn_nirman', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connect in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[20-Apr-2022 08:20:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'softwrgn_nirman', 'softwrgn_nirman', Array)
+#1 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'softwrgn_nirman', 'softwrgn_nirman', Array)
+#2 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connect in /home3/softwrgn/nirmanbazar.softcreation.tech/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[20-May-2022 06:33:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/nirmlpnx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/nirmlpnx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'nirmlpnx_nirman...', 'nirmlpnx_nirman...', Array)
+#1 /home/nirmlpnx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'nirmlpnx_nirman...', 'nirmlpnx_nirman...', Array)
+#2 /home/nirmlpnx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/nirmlpnx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(184): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+ in /home/nirmlpnx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[30-May-2022 10:28:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 278
+[30-May-2022 10:28:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 540
+[30-May-2022 12:14:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 278
+[30-May-2022 12:14:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 540
+[30-May-2022 18:49:19 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 278
+[30-May-2022 18:49:19 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 540
+[30-May-2022 19:07:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 278
+[30-May-2022 19:07:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 540
+[31-May-2022 11:25:00 Asia/Dhaka] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 278
+[31-May-2022 11:25:00 Asia/Dhaka] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/saheoluu/public_html/app/Http/Controllers/ProductController.php on line 540
